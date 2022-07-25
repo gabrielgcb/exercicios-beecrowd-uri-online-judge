@@ -4,8 +4,8 @@ A seguir, calcule o produto entre estes dois valores e atribua esta operação �
 A seguir mostre a variável PROD com mensagem correspondente.  
 """
 
-a = input()
-b = input()
-prod = int(a) * int(b)
+valor_a = input()
+valor_b = input()
+PROD = int(valor_a) * int(valor_b)
 
-print("PROD =", prod)
+print("PROD =", PROD)
