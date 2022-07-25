@@ -5,8 +5,9 @@ Considerando para este problema que pi = 3.14159:
   - Efetue o cálculo da área, elevando o valor do raio ao quadrado e multiplicando por pi.
 """
 
-raio = input()
-raio = float(raio)
+raio = float(input())
 
-Area = 3.14159 * raio**2
+pi = 3.14159
+Area = pi * raio**2
+
 print("A = {:.4f}" .format(Area))
