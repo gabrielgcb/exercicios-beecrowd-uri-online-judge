@@ -11,4 +11,4 @@ vD = int(input())
 
 DIFERENCA = (vA * vB - vC * vD)
 
-print("DIFERENCA = ", DIFERENCA)
+print("DIFERENCA =", DIFERENCA)
