@@ -1,4 +1,4 @@
-# Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
+# Faça um programa que leia três valores a, b, c e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
 
 a, b, c = input().split()
 
