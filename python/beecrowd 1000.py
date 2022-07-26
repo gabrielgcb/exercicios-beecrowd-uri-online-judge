@@ -1,5 +1,5 @@
 """
-Hello World!
+Olá, mundo! :)
 """
 
 print("Hello World!")
